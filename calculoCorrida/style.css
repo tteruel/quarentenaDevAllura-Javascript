@@ -1,0 +1,15 @@
+* {
+    background-color: #111111;
+    color: #ffaa00;
+    margin-left: 5px;
+  }
+  p{
+    margin-left: 50px;
+  }
+  input {
+    margin-left: 60px;
+  }
+  
+  button {
+    margin-left: 140px;
+  }
