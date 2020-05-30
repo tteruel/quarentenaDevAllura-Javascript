@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+  .pokeball {
+    width: 10px;
+    height: 10px;
+    background-color: #eee;
+    box-shadow: 
+      0px 0px 0px 0px #eee, 
+      10px 0px 0px 0px #eee, 
+      20px 0px 0px 0px #eee, 
+      30px 0px 0px 0px #eee, 
+      40px 0px 0px 0px #eee, 
+      50px 0px 0px 0px #000, 
+      60px 0px 0px 0px #000, 
+      70px 0px 0px 0px #000, 
+      80px 0px 0px 0px #000, 
+      90px 0px 0px 0px #eee,
+      100px 0px 0px 0px #eee,
+      110px 0px 0px 0px #eee, 
+      120px 0px 0px 0px #eee,
+      130px 0px 0px 0px #eee,
+      140px 0px 0px 0px #eee,
+      150px 0px 0px 0px #eee,
+      160px 0px 0px 0px #eee,
+      170px 0px 0px 0px #eee,
+      180px 0px 0px 0px #eee,
+      190px 0px 0px 0px #eee,
+      2000px 0px 0px 0px #eee;
+  }
